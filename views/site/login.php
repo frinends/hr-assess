@@ -20,11 +20,9 @@ $fieldOptions2 = [
 ?>
 
 <div class="login-box">
-    <div class="login-logo">
-        <a href="javascript:;"><img style="max-width: 360px;" src="/img/logo.png"</a>
-    </div>
+
     <div class="login-box-body">
-        <p class="login-box-msg">神华物资集团人力资源管理系统</p>
+        <p class="login-box-msg">人力资源管理系统</p>
 
         <?php $form = ActiveForm::begin(['id' => 'login-form', 'enableClientValidation' => false]); ?>
 

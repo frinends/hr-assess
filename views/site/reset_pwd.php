@@ -1,7 +1,4 @@
 <div class="login-box">
-    <div class="login-logo">
-        <a href="javascript:;"><img style="max-width: 360px;" src="/img/logo.png"</a>
-    </div>
 
     <div class="login-box-body">
         <p class="login-box-msg"></p>
